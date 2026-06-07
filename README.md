@@ -19,3 +19,5 @@ My software engineering internship preparation journey.
 - Solved Two Sum (brute force)
 - Solved Two Sum (hash map)
 - Solved Contains Duplicate
+- Solved Valid Anagram using frequency maps
+- Learned optimized single-dictionary solution
