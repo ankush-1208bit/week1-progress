@@ -18,3 +18,5 @@ def valid_anagram(s,t):
             return False
     return True
 print(valid_anagram(s,t))
+ch = "A"
+print(ch.isalnum())
