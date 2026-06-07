@@ -9,6 +9,5 @@ def palindrome(s):
     for j in range(n//2):
         if (clean[j] != clean[n-1-j]):
             return False
-            exit()
     return True
 print(palindrome(s))
