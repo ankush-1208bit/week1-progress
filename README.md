@@ -19,5 +19,11 @@ My software engineering internship preparation journey.
 - Solved Two Sum (brute force)
 - Solved Two Sum (hash map)
 - Solved Contains Duplicate
+## Day 3
 - Solved Valid Anagram using frequency maps
 - Learned optimized single-dictionary solution
+- Learned Python string methods
+- Practiced:
+  - Counting vowels
+  - Reversing strings
+  - Counting words
