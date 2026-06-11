@@ -27,3 +27,10 @@ My software engineering internship preparation journey.
   - Counting vowels
   - Reversing strings
   - Counting words
+  ## Day 4
+
+- Learned Big O basics
+- Learned exception handling
+- Practiced debugging common Python errors
+- Learned tuples
+- Solved Valid Parentheses (Stack)
